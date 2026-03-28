@@ -8,10 +8,9 @@
 
 ---
 
-## Live Demo
+## 🌐 Live Demo
 
-👉 _Coming soon (deploying on Streamlit Cloud)_  
-
+👉 [Open the app](https://ai-customer-review-intelligence-system-uazpvxzdz6rvisswxykork.streamlit.app/)
 ---
 
 ## Overview
